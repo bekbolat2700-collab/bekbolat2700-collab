@@ -21,7 +21,7 @@ Currently transitioning into **Cybersecurity (Information Security)** and buildi
 - **Linux Hardening Guide** – Secured Linux servers (firewall, SSH keys, fail2ban, updates)
 
 ## 📫 Contact Me
-- LinkedIn: [вставь ссылку на свой LinkedIn]  
+- LinkedIn: [https://www.linkedin.com/in/bekbolatzhumabekov]  
 - GitHub: https://github.com/bekbolat2700-collab  
 
 ---
