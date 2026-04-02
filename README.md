@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Bekbolat
 
-<!--
-**bekbolat2700-collab/bekbolat2700-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Specialist with 11+ years of experience in infrastructure, server administration, and technical support.  
+Currently transitioning into **Cybersecurity (Information Security)** and building practical projects to strengthen my skills.
 
-Here are some ideas to get you started:
+## 🔐 Focus Areas
+- Network Security & Monitoring
+- System Hardening (Linux & Windows)
+- Vulnerability Assessment
+- SOC Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Operating Systems:** Windows Server, Linux (Ubuntu, CentOS)  
+- **Networking:** MikroTik, FortiGate  
+- **Security Tools:** Nmap, Wireshark, Metasploit (learning)  
+- **Virtualization:** VMware, Hyper-V  
+
+## 💻 Projects / Pet Projects
+- **Home SOC Lab** – Setup Wazuh + ELK for log monitoring and alerts  
+- **Network Security Audit** – Scanned networks with Nmap, analyzed open ports and vulnerabilities  
+- **Linux Hardening Guide** – Secured Linux servers (firewall, SSH keys, fail2ban, updates)
+
+## 📫 Contact Me
+- LinkedIn: [вставь ссылку на свой LinkedIn]  
+- GitHub: https://github.com/bekbolat2700-collab  
+
+---
+
+### ⚡ Note
+This GitHub profile shows my journey from IT infrastructure toward **practical cybersecurity skills**. Projects are continuously updated as I learn new tools and techniques.
