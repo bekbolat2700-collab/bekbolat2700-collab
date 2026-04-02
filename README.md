@@ -28,3 +28,19 @@ Currently transitioning into **Cybersecurity (Information Security)** and buildi
 
 ### ⚡ Note
 This GitHub profile shows my journey from IT infrastructure toward **practical cybersecurity skills**. Projects are continuously updated as I learn new tools and techniques.
+
+
+
+## 💻 Projects / Pet Projects
+
+### Home SOC Lab
+Mini Security Operations Center using Wazuh + ELK for log monitoring  
+[View on GitHub](https://github.com/bekbolat2700-collab/home-soc-lab)
+
+### Network Security Audit
+Network scanning and vulnerability analysis using Nmap and Wireshark  
+[View on GitHub](https://github.com/bekbolat2700-collab/network-security-audit)
+
+### Linux Hardening Guide
+Practical guide to secure Linux servers (firewall, SSH, fail2ban)  
+[View on GitHub](https://github.com/bekbolat2700-collab/linux-hardening-guide)
